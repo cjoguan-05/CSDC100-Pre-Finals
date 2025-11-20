@@ -29,7 +29,7 @@ The project uses these libraries:
 
 ### **Frontend**
 - **HTML5**
-- **CSS3**
+- **CSS**
 - **Bootstrap 5.3.3**  
   For layout, grid, cards, modals, tabs
 - **Bootstrap Icons**  
