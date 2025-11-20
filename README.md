@@ -48,6 +48,10 @@ Screenshot of the homepage:
 
 ![Website Screenshot]
 
+<img width="1595" height="967" alt="Screenshot 2025-11-20 205257" src="https://github.com/user-attachments/assets/32b427fb-02bb-445e-9a7d-70c26155fe10" />
+<img width="1536" height="815" alt="Screenshot 2025-11-20 205315" src="https://github.com/user-attachments/assets/4f3bd4e0-0b95-4b40-8e48-a0c4f0b0db3c" />
+<img width="1443" height="922" alt="Screenshot 2025-11-20 205324" src="https://github.com/user-attachments/assets/8b070f77-292d-4432-9d90-927c55271374" />
+<img width="1496" height="988" alt="Screenshot 2025-11-20 205337" src="https://github.com/user-attachments/assets/9c226721-87b0-46c7-9161-4a2cd68693ed" />
 
 ---
 
